@@ -1,12 +1,12 @@
 This Web Scraping & Text Analysis project utilizes Python library PRAW (Python Reddit API Wrapper) to retrieve and extract posts and comments from subreddits, Reddit API credentials from Reddit's Developer Portal is required to run PRAW. 
 
-By analysing the harvested text, we are hoping to organize, understand and gain additional insights from it. There are 4 major practice areas of Text Analytics:
+By analysing the harvested text, we are hoping to organize, understand and gain additional insights from it. There are 4 major practice areas of **Text Analytics**:
 1. Descriptive statistics
 2. Document clustering
 3. Document classification
 4. Sentiment analysis
 
-Preprocessing is often neccessary for text analytics tasks. The process to clean is highly customizable and users will have to decide how much preprocessing is needed. Preprorcessing tasks includes:
+**Preprocessing** is often neccessary for text analytics tasks. The process to clean is highly customizable and users will have to decide how much preprocessing is needed. Preprorcessing tasks includes:
 - Case normalization
 - Tokenization
 - n-grams and skip-grams
