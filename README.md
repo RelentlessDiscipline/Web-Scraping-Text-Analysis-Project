@@ -1,4 +1,4 @@
-The Web Scraping & Text Analysis project utilizes Python library PRAW (Python Reddit API Wrapper) to retrieve and extract posts and comments from subreddits, Reddit API credentials from Reddit's Developer Portal is required to run PRAW. 
+This Web Scraping & Text Analysis project utilizes Python library PRAW (Python Reddit API Wrapper) to retrieve and extract posts and comments from subreddits, Reddit API credentials from Reddit's Developer Portal is required to run PRAW. 
 
 By analysing the harvested text, we are hoping to organize, understand and gain additional insights from it. There are 4 major practice areas of Text Analytics:
 1. Descriptive statistics
