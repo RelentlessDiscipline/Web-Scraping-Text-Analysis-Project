@@ -1,6 +1,6 @@
 **Project Overview**:
 
-The Text Scraping & Text Analysis Project focuses on Sentiment Analysis and Descriptive Statistics. Initially utilizing Python to conduct sentiment analysis on r/wallstreetbets - the online community that played a pivotal role in the 2021 GameStop short squeeze, causing significant losses for a number of US hedge funds and short sellers. Subsequently, this project was expanded to include analysis of other subreddits exploring philosophy, ethics, and related topics, uncovering trends in online discourse and collective sentiment.
+The Web Scraping & Text Analysis Project focuses on Sentiment Analysis and Descriptive Statistics. Initially utilizing Python to conduct sentiment analysis on r/wallstreetbets - the online community that played a pivotal role in the 2021 GameStop short squeeze, causing significant losses for a number of US hedge funds and short sellers. Subsequently, this project was expanded to include analysis of other subreddits exploring philosophy, ethics, and related topics, uncovering trends in online discourse and collective sentiment.
 
 **Note**: The findings from this analysis may not reflect the views of the overall population, nor necessarily my own.
 
