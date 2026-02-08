@@ -1,4 +1,10 @@
-This Web Scraping & Text Analysis project utilizes Python library PRAW (Python Reddit API Wrapper) to retrieve and extract posts and comments from subreddits, Reddit API credentials from Reddit's Developer Portal is required to run PRAW. 
+**Project Overview**:
+The Text Scraping & Text Analysis Project focuses on Sentiment Analysis and Descriptive Statistics. Initially utilizing Python to conduct sentiment analysis on r/wallstreetbets - the online community that played a pivotal role in the 2021 GameStop short squeeze, causing significant losses for a number of US hedge funds and short sellers. Subsequently, this project was expanded to include analysis of other subreddits exploring philosophy, ethics, and related topics, uncovering trends in online discourse and collective sentiment.
+
+**Note**: The findings from this analysis may not reflect the views of the overall population, nor necessarily my own.
+
+
+The project utilizes Python library PRAW (Python Reddit API Wrapper) to retrieve and extract posts and comments from subreddits, Reddit API credentials from Reddit's Developer Portal is required to run PRAW. 
 
 See full documentation here (https://praw.readthedocs.io/en/stable/).
 
@@ -39,10 +45,6 @@ By analysing the harvested text, we are hoping to organize, understand and gain 
 - Removing stop words
 - Removing common and rare words
 
-This project focuses on Sentiment Analysis and Descriptive Statistics, looking into r/wallstreetbets, who played a major role in the GameStop short squeeze that caused significant losses for a number of US hedge funds and short sellers for a duration of time in early 2021. 
-In this project you will also find analysis of other interesting topics about philosophy, ethics, and religion. 
-
-**Note**: The findings from this analysis may not reflect the views of the overall population, nor necessarily my own.
 
 Special thank you to Instructor Bill Chao for teaching the course! 🙌  
 
